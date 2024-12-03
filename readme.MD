@@ -1,8 +1,8 @@
-#WebServer en NodeJS
+# WebServer en NodeJS
 
 Realizacé un servidor web donde se sirve una web simulada al estilo twitter
 
-##¿Cómo usarlo?
+## ¿Cómo usarlo?
 
 1. Debes realizar el clonado `git clone https://github.com/grxywarxn/web-server`
 2. Abrir en tu editor de código y ejecutar en la terminal `npm install`
